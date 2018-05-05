@@ -1,0 +1,1 @@
+# Docker image with Amazon Linux AMI and node 8
